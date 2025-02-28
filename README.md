@@ -20,9 +20,9 @@
 ○ Ny produktinfo skickas i request body 
 ### DELETE /products/:id 
 ○ Ta bort en produkt 
-### Ska även ta bort alla produktens recensioner (CASCADE DELETE) 
+○ Ska även ta bort alla produktens recensioner (CASCADE DELETE) 
 ## Kundhantering 
-● GET /customers/:id 
+### GET /customers/:id 
 ○ Visa kundinformation 
 ○ Inkludera orderhistorik via JOIN med orders-tabellen 
 ### PUT /customers/:id 
