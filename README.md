@@ -1,4 +1,4 @@
-# Techgear Inläminguppgift
+# Techgear 
 
 ## Jag har använt mig av Node.js, Express.js och Node-paketet Better-SQLite3 för att skapa en databas och en koppling mellan databasen och javascript för att bilda en api.
 
